@@ -2,7 +2,7 @@
 
 A practical, **read-only** checklist for finding wasted AWS spend and planning a safe migration to AWS. Every command below only *describes* or *gets* data; nothing here changes your account.
 
-Maintained by **[S M Moshiur Rahman](https://github.com/bemoshiur)**, AWS FinOps and cloud consultant (Dhaka, Bangladesh), Director of TICON SYSTEM LIMITED.
+Maintained by **[S M Moshiur Rahman](https://github.com/bemoshiur)**, AWS FinOps and cloud consultant (Dhaka, Bangladesh) at TICON SYSTEM LIMITED.
 Want it done for you? **WhatsApp [+880 1777-174791](https://wa.me/8801777174791?text=Hi%20Moshiur%2C%20I%20used%20your%20AWS%20playbook%20and%20need%20help.)** · **[LinkedIn](https://www.linkedin.com/in/in-moshiur/)**
 
 > Prerequisites: AWS CLI v2 configured with a role that has read-only access (the managed `ReadOnlyAccess` and `job-function/Billing` policies are enough). Run region-specific commands once per region you use. Use `--profile` if you have several accounts.
